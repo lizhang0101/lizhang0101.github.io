@@ -30,8 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-# remote-theme: Minima
-remote_theme: slate
+theme: slate
 plugins:
     - jekyll-feed
     - jekyll-remote-theme # add this line to the plugins list if you already have one
