@@ -30,7 +30,8 @@
 #github_username:  jekyll
 
 # Build settings
-remote-theme: slate
+#remote-theme: slate
+theme: jekyll-theme-slate
 plugins:
     - jekyll-feed
     - jekyll-remote-theme # add this line to the plugins list if you already have one
